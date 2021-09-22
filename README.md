@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# My name is Tristin, I'm a Web developer from 🌞 South Africa.
+
+📫 How to reach me: https://TristinCodingham.github.io
+
 <!--
 **TristinCodingham/TristinCodingham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
