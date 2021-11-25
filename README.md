@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Tristin, I developer websites from 🌞 South Africa.
+# My name is Tristin, I develop websites from 🌞 South Africa.
 
 📫 How to reach me: https://TristinCodingham.github.io https://www.fiverr.com/s2/04f0d76665
 
